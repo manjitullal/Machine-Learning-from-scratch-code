@@ -1,3 +1,4 @@
 # SupervisedMachineLearning
 
-1. Linear Regeression on a Data set using the Least squares method to create a model to fit the data
+All important techniques in Machine Learning, evaluated deeply in a Jupiter Notebook
+
